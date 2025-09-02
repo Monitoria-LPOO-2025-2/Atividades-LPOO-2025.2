@@ -214,3 +214,6 @@ __marimo__/
 
 credentials.json
 *.json
+
+commit-steps.md
+plan-of-implementation.md
