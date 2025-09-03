@@ -6,6 +6,13 @@ package consolidacoes.consolidacao2;
     e retorne as substrings iniciadas e finalizadas com o caractere em questões existentes na String passada como parâmetro.
  */
 
+public class Substrings{
+    // Atributos necessários
 
+
+    public String encontrarSubstring(){
+        return null; //Retorno temporário do metodo, deve ser alterado!
+    }
+}
 
 

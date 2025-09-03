@@ -9,3 +9,10 @@ package consolidacoes.consolidacao5;;
     Caso o valor informado seja negativo ou igual a zero, o sistema deve lançar uma exceção personalizada ValorInvalidoException.
     No programa principal, crie objetos das duas classes, processe pagamentos válidos, tente processar um pagamento inválido (tratando a exceção) e realize reembolsos.
  */
+
+
+public class PayMaster{
+    public static void main(String[] args) {
+        //Teste do programa descrito na ultima linha do problema
+    }
+}

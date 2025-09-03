@@ -9,3 +9,9 @@ package consolidacoes.consolidacao3;
     Esta mesma classe deve ter um metodo que calcula qual o valor mensal de bônus que o cliente ganha.
     O valor mensal de bônus é dado pela fórmula: valor mensal de bônus = salário*(1+(percentual de bônus / 100)).
  */
+
+public class ClienteBonus{
+    public static void main(String[] args) {
+        // teste aqui
+    }
+}
