@@ -1,5 +1,8 @@
 package consolidacoes.consolidacao2;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /*
     Escreva um metodo que deve receber uma String (de tamanho máximo 100)
     e um caractere (que deve estar entre as 26 letras do alfabeto sendo válida a versão maiúscula ou minúscula)
@@ -7,11 +10,12 @@ package consolidacoes.consolidacao2;
  */
 
 public class Substrings{
-    // Atributos necessários
+    // Atributos necessários (texto, caractere)
 
 
-    public String encontrarSubstring(){
-        return null; //Retorno temporário do metodo, deve ser alterado!
+    public List<String> encontrarSubstrings() {
+        
+        return new ArrayList<>();
     }
 }
 
